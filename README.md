@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Joseluis2011
+- 👀 estoy interesado en crear juegos 
+- 🌱 I’m currently learning phyton
+- Estoy trabajando en un pacman con ayuda de IA
